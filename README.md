@@ -1,23 +1,23 @@
 # XRP-shitposters-on-X
-A list of the best accounts on X to block, that like to misinform you about XRP or the XRPL
+A list of the best accounts on X to block, that like to misinform me about XRP or the XRPL
 
 
-The purpose of this list is to provide the viewer with a list of X (twitter) accounts that repeatedly share or repost misinfomration, dated information that is no longer relevant and general clickbait type posts. Bloggers, who pass themselves off as journalists,
+The purpose of this list is to provide me with a list of X (twitter) accounts that repeatedly share or repost misinformation, dated information that is no longer relevant and general clickbait type posts. Bloggers, who pass themselves off as journalists,
 are also included in this list where there is sufficient evidence available that they tabloid this misinformation.
 
 It is perceived that there are many of these accounts in existence, many are run by the same entity.
 
-The majority of misinfomration that occurs involves a calculated sharing of information that entices you to engage in a manner which generates income for the misinformer. They rely on your interaction by posting a comment, liking their post or reposting it. 
+The majority of misinfomration that occurs involves a calculated sharing of information that entices you to engage in a manner which generates income for the misinformer. They rely on your interaction to generate income and/or followers by posting a comment, liking their post or reposting it. 
 
-This is called **engagement farmning**, and has recently been made worse, especially in the XRP/XRPL community, by the ability to get paid for engagements by 'X', if you have a pro account.
+This is called **engagement farmning**, and has recently been made worse, especially within the XRP/XRPL community, by the ability to get paid for engagements by 'X', if you have a pro account.
 
-The list is not exhaustive, and although there are many engagement farmers out there harvesting your interactions, I have restricted the list to those who misinform, create false documents and infer that their opinions are fact, about XRP or the XRPL, the sole purpose of this list. 
+The list is not exhaustive, and although there are many engagement farmers out there harvesting my interactions, I have restricted the list to those who misinform, create false documents and infer that their opinions are fact, about XRP or the XRPL, the sole purpose of this list. 
 
-If you are on this list, you're an asswipe for beinmg a shitposter, congratulations on making my shitposter list. If you don't want to be on my list, stop misinforming. If you want to be removed, then remove all your misinforming posts and get in touch.
+If you are on my list, you're an asswipe for beinmg a shitposter, congratulations on making my shitposter list. If you don't want to be on my list, stop misinforming. If you want to be removed, then remove all your misinforming posts and get in touch.
 
 This is my list, and a list I choose to keep, so that I know who is trying to misinform me. If I block you because you are on my list, then you know why. Feel free to use this list to keep your feed clean of misinformation. Feel free to share any known misinformers with me so that we can keep the community educated with current, relevant news and sharings.
 
-If you don't want to be on my list then don't misinform. It isn't hard. RESEARCH and if it's old, not happening then it's not relevant. If it's incorrect or made up, then it is irrelevant.
+If you don't want to be on my list then don't misinform. It isn't hard. RESEARCH, and if it's old, not happening, then it's not relevant. If it's incorrect or made up, then it is irrelevant.
 
 If you know of a misinformer please share with me as I'd love to check them out, and if they are misinforming I will add them to my list of who I should block!
 
