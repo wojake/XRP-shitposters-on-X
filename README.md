@@ -19,7 +19,9 @@ This is my list, and a list I choose to keep, so that I know who is trying to mi
 
 If you don't want to be on my list then don't misinform. It isn't hard. RESEARCH and if it's old, not happening then it's not relevant. If it's incorrect or made up, then it is irrelevant.
 
-If you know of a misinformer please share with me as I'd love to check them out, and if they are misinforming I will add them to my list of who i should block!
+If you know of a misinformer please share with me as I'd love to check them out, and if they are misinforming I will add them to my list of who I should block!
+
+
 
 * EDO FARINA 🅧 XRP &nbsp; &nbsp; &nbsp; &nbsp;  @edward_farina  &nbsp; &nbsp; &nbsp; &nbsp;  https://x.com/edward_farina <br>
 * Brett Hill &nbsp; &nbsp; &nbsp; &nbsp;  @Brett_Crypto_X  &nbsp; &nbsp; &nbsp; &nbsp;  https://x.com/Brett_Crypto_X <br>
