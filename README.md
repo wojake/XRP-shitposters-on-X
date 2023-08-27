@@ -9,7 +9,7 @@ It is perceived that there are many of these accounts in existence, many are run
 
 The majority of misinfomration that occurs involves a calculated sharing of information that entices you to engage in a manner which generates income for the misinformer. They rely on your interaction to generate income and/or followers by posting a comment, liking their post or reposting it. 
 
-This is called **engagement farmning**, and has recently been made worse, especially within the XRP/XRPL community, by the ability to get paid for engagements by 'X', if you have a pro account.
+This is called **engagement farming**, and has recently been made worse, especially within the XRP/XRPL community, by the ability to get paid for engagements by 'X', if you have a pro account.
 
 The list is not exhaustive, and although there are many engagement farmers out there harvesting my interactions, I have restricted the list to those who misinform, create false documents and infer that their opinions are fact, about XRP or the XRPL, the sole purpose of this list. 
 
