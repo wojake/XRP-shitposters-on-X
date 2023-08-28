@@ -1,53 +1,45 @@
 # XRP-shitposters-on-X
-A list of the best accounts on X to block, that like to misinform me about XRP or the XRPL
 
+## Purpose
 
-The purpose of this list is to provide me with a list of X (twitter) accounts that repeatedly share or repost misinformation, dated information that is no longer relevant and general clickbait type posts. Bloggers, who pass themselves off as journalists,
-are also included in this list where there is sufficient evidence available that they tabloid this misinformation.
+The purpose of this list is to identify Twitter accounts that frequently share or repost misinformation, outdated content, and clickbait about XRP or the XRPL. This list also includes bloggers who present themselves as journalists when there's enough evidence of them spreading this misinformation.
 
-It is perceived that there are many of these accounts in existence, many are run by the same entity.
+**Engagement Farming**: A practice where content is shared to encourage interaction (comments, likes, reposts) that in turn generates income or followers. This has become particularly prevalent within the XRP/XRPL community with platforms that pay for engagements.
 
-The majority of misinfomration that occurs involves a calculated sharing of information that entices you to engage in a manner which generates income for the misinformer. They rely on your interaction to generate income and/or followers by posting a comment, liking their post or reposting it. 
+**Note**: This list isn't exhaustive. It's a personal tool for keeping track of accounts to block. If you're on this list and wish to be removed, please correct the misinformation and contact the list owner. Feel free to use and share this list to promote genuine information within the community.
 
-This is called **engagement farming**, and has recently been made worse, especially within the XRP/XRPL community, by the ability to get paid for engagements by 'X', if you have a pro account.
+## List of Misinformers
 
-The list is not exhaustive, and although there are many engagement farmers out there harvesting my interactions, I have restricted the list to those who misinform, create false documents and infer that their opinions are fact, about XRP or the XRPL, the sole purpose of this list. 
+| Name                                                   | Twitter Handle        | Profile Link                                     |
+|--------------------------------------------------------|-----------------------|--------------------------------------------------|
+| EDO FARINA 🅧 XRP                                       | @edward_farina        | [Profile](https://x.com/edward_farina)           |
+| Brett Hill                                             | @Brett_Crypto_X       | [Profile](https://x.com/Brett_Crypto_X)          |
+| Digital Assets Daily                                   | @AssetsDaily          | [Profile](https://x.com/AssetsDaily)             |
+| CryptoGeek                                             | @CryptoGeekNews       | [Profile](https://x.com/CryptoGeekNews)          |
+| XRP whale                                              | @realXRPwhale         | [Profile](https://x.com/realXRPwhale)            |
+| Michael Branch                                         | @michael63140627      | [Profile](https://x.com/michael6314062)          |
+| Lord XRP                                               | @bitforcoinz          | [Profile](https://x.com/bitforcoinz)             |
+| Sir Kunt • Crypto & NFT                                | @sirkunt              | [Profile](https://x.com/sirkunt)                 |
+| xrpnews.crypto® ⚡️🐺                                   | @xrp334               | [Profile](https://x.com/xrp334)                  |
+| 𝕀ℕ                                                      | @ianbins              | [Profile](https://x.com/ianbins)                 |
+| TheCryptoAlert                                         | @MyCryptoAlert        | [Profile](https://x.com/MyCryptoAlert)           |
+| Crypto Chairman                                        | @kelly_cryp40459      | [Profile](https://x.com/kelly_cryp40459)         |
+| XRP-Flare United                                       | @farshadrouhani5      | [Profile](https://x.com/farshadrouhani5)         |
+| SebastianSaldarriaga                                   | @isebastian           | [Profile](https://x.com/isebastian)              |
+| Coinpedia - Fintech News                               | @coinpedianews        | [Profile](https://x.com/coinpedianews)           |
+| MackAttackXRP® 🇳🇱 64K-XRP-Followers                    | @MackAttackXRP        | [Profile](https://x.com/MackAttackXRP)           |
+| JackTheRippler ©️                                       | @Ripplexrpie          | [Profile](https://x.com/Ripplexrpie)             |
+| U.Today                                                | @Utoday_en            | [Profile](https://x.com/Utoday_en)               |
+| 25hoursawake                                           | @25hoursawake         | [Profile](https://x.com/25hoursawake)            |
+| Alex Cobb (XRP)                                        | @AlexCobb_            | [Profile](https://x.com/@AlexCobb_)              |
+| Digital PerspectivesPermaBull🪝                         | @DigPerspectives      | [Profile](https://x.com/DigPerspectives)         |
+| Lewis Jackson                                          | @cryptolewlew         | [Profile](https://x.com/cryptolewlew)            |
+| MASON VERSLUIS 🏆🔮                                     | @MasonVersluis        | [Profile](https://x.com/MasonVersluis)           |
+| wEeZiE {X}💭FireGaryGensler                             | @NerdNationUnbox      | [Profile](https://x.com/NerdNationUnbox)         |
+| BULLZILLA                                              | @CKJCryptonews        | [Profile](https://x.com/CKJCryptonews)           |
+| Coach, JV                                              | @Coachjv_             | [Profile](https://x.com/Coachjv_)                |
+| ⚔️ XRP Avengers ⚔️                                     | @XRP_Avengers         | [Profile](https://x.com/XRP_Avengers)            |
+| Shannon Thorp                                          | @thorpshannon87       | [Profile](https://x.com/thorpshannon87)          |
 
-If you are on my list, you're an asswipe for beinmg a shitposter, congratulations on making my shitposter list. If you don't want to be on my list, stop misinforming. If you want to be removed, then remove all your misinforming posts and get in touch.
+To contribute to this list or raise concerns, please get in touch. Remember, the best way to stay off this list is to provide accurate and updated information. Do your research and ensure relevance before posting.
 
-This is my list, and a list I choose to keep, so that I know who is trying to misinform me. If I block you because you are on my list, then you know why. Feel free to use this list to keep your feed clean of misinformation. Feel free to share any known misinformers with me so that we can keep the community educated with current, relevant news and sharings.
-
-If you don't want to be on my list then don't misinform. It isn't hard. RESEARCH, and if it's old, not happening, then it's not relevant. If it's incorrect or made up, then it is irrelevant.
-
-If you know of a misinformer please share with me as I'd love to check them out, and if they are misinforming I will add them to my list of who I should block!
-
-
-
-* EDO FARINA 🅧 XRP &nbsp; &nbsp; &nbsp; &nbsp;  @edward_farina  &nbsp; &nbsp; &nbsp; &nbsp;  https://x.com/edward_farina <br>
-* Brett Hill &nbsp; &nbsp; &nbsp; &nbsp;  @Brett_Crypto_X  &nbsp; &nbsp; &nbsp; &nbsp;  https://x.com/Brett_Crypto_X <br>
-* Digital Assets Daily &nbsp; &nbsp; &nbsp; &nbsp;  @AssetsDaily &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/AssetsDaily <br>
-* CryptoGeek &nbsp; &nbsp; &nbsp; &nbsp; @CryptoGeekNews &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/CryptoGeekNews <br>
-* XRP whale &nbsp; &nbsp; &nbsp; &nbsp;  @realXRPwhale &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/realXRPwhale <br>
-* Michael Branch &nbsp; &nbsp; &nbsp; &nbsp; @michael63140627 &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/michael63140627 <br>
-* Lord XRP &nbsp; &nbsp; &nbsp; &nbsp; @bitforcoinz &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/bitforcoinz <br>
-* Sir Kunt • Crypto & NFT &nbsp; &nbsp; &nbsp; &nbsp; @sirkunt &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/sirkunt <br>
-* xrpnews.crypto® ⚡️🐺 &nbsp; &nbsp; &nbsp; &nbsp; @xrp334 &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/xrp334 <br>
-* 𝕀ℕ &nbsp; &nbsp; &nbsp; &nbsp; @ianbins &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/ianbins <br>
-* TheCryptoAlert &nbsp; &nbsp; &nbsp; &nbsp; @MyCryptoAlert &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/MyCryptoAlert <br>
-* Crypto Chairman &nbsp; &nbsp; &nbsp; &nbsp; @kelly_cryp40459 &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/kelly_cryp40459 <br>
-* XRP-Flare United &nbsp; &nbsp; &nbsp; &nbsp; @farshadrouhani5 &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/farshadrouhani5 <br>
-* SebastianSaldarriaga &nbsp; &nbsp; &nbsp; &nbsp; @isebastian &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/isebastian <br>
-* Coinpedia - Fintech News &nbsp; &nbsp; &nbsp; &nbsp; @coinpedianews &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/coinpedianews <br>
-* MackAttackXRP® 🇳🇱 64K-XRP-Followers &nbsp; &nbsp; &nbsp; &nbsp; @MackAttackXRP &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/MackAttackXRP <br>
-* JackTheRippler ©️ &nbsp; &nbsp; &nbsp; &nbsp; @Ripplexrpie &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/Ripplexrpie <br>
-* U.Today &nbsp; &nbsp; &nbsp; &nbsp; @Utoday_en &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/Utoday_en <br>
-* 25hoursawake &nbsp; &nbsp; &nbsp; &nbsp; @25hoursawake &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/25hoursawake <br>
-* Alex Cobb (XRP) &nbsp; &nbsp; &nbsp; &nbsp; @AlexCobb_ &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/@AlexCobb_ <br>
-* Digital PerspectivesPermaBull🪝 &nbsp; &nbsp; &nbsp; &nbsp; @DigPerspectives &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/DigPerspectives <br>
-* Lewis Jackson &nbsp; &nbsp; &nbsp; &nbsp; @cryptolewlew &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/cryptolewlew <br>
-* MASON VERSLUIS 🏆🔮 &nbsp; &nbsp; &nbsp; &nbsp; @MasonVersluis &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/MasonVersluis <br>
-* wEeZiE {X}💭FireGaryGensler &nbsp; &nbsp; &nbsp; &nbsp; @NerdNationUnbox &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/NerdNationUnbox<br>
-* BULLZILLA &nbsp; &nbsp; &nbsp; &nbsp; @CKJCryptonews &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/CKJCryptonews<br>
-* Coach, JV &nbsp; &nbsp; &nbsp; &nbsp; @Coachjv_ &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/Coachjv_<br>
-* ⚔️ XRP Avengers ⚔️ &nbsp; &nbsp; &nbsp; &nbsp; @XRP_Avengers &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/XRP_Avengers<br>
-* Shannon Thorp &nbsp; &nbsp; &nbsp; &nbsp; @thorpshannon87 &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/thorpshannon87<br>
