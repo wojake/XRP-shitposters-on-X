@@ -51,3 +51,4 @@ If you know of a misinformer please share with me as I'd love to check them out,
 * Coach, JV &nbsp; &nbsp; &nbsp; &nbsp; @Coachjv_ &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/Coachjv_<br>
 * ⚔️ XRP Avengers ⚔️ &nbsp; &nbsp; &nbsp; &nbsp; @XRP_Avengers &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/XRP_Avengers<br>
 * Shannon Thorp &nbsp; &nbsp; &nbsp; &nbsp; @thorpshannon87 &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/thorpshannon87<br>
+* 24HRSCRYPTO &nbsp; &nbsp; &nbsp; &nbsp; @24hrscrypto1 &nbsp; &nbsp; &nbsp; &nbsp; https://x.com/24hrscrypto1<br>
