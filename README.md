@@ -8,6 +8,8 @@ The purpose of this list is to identify Twitter accounts that frequently share o
 
 **Note**: This list isn't exhaustive. It's a personal tool for keeping track of accounts to block. If you're on this list and wish to be removed, please correct the misinformation and contact the list owner. Feel free to use and share this list to promote genuine information within the community.
 
+Last updated 29 August 2023
+
 ## List of Misinformers
 
 | Name                                                   | Twitter Handle        | Profile Link                                     |
@@ -20,8 +22,8 @@ The purpose of this list is to identify Twitter accounts that frequently share o
 | Michael Branch                                         | @michael63140627      | [Profile](https://x.com/michael6314062)          |
 | Lord XRP                                               | @bitforcoinz          | [Profile](https://x.com/bitforcoinz)             |
 | Sir Kunt • Crypto & NFT                                | @sirkunt              | [Profile](https://x.com/sirkunt)                 |
-| xrpnews.crypto® ⚡️🐺                                   | @xrp334               | [Profile](https://x.com/xrp334)                  |
-| 𝕀ℕ                                                      | @ianbins              | [Profile](https://x.com/ianbins)                 |
+| xrpnews.crypto® ⚡️🐺                                   | @xrp334               | [Profile](https://x.com/xrp334)                 |
+| 𝕀ℕ                                                      | @ianbins              | [Profile](https://x.com/ianbins)                |
 | TheCryptoAlert                                         | @MyCryptoAlert        | [Profile](https://x.com/MyCryptoAlert)           |
 | Crypto Chairman                                        | @kelly_cryp40459      | [Profile](https://x.com/kelly_cryp40459)         |
 | XRP-Flare United                                       | @farshadrouhani5      | [Profile](https://x.com/farshadrouhani5)         |
@@ -34,12 +36,18 @@ The purpose of this list is to identify Twitter accounts that frequently share o
 | Alex Cobb (XRP)                                        | @AlexCobb_            | [Profile](https://x.com/@AlexCobb_)              |
 | Digital PerspectivesPermaBull🪝                         | @DigPerspectives      | [Profile](https://x.com/DigPerspectives)         |
 | Lewis Jackson                                          | @cryptolewlew         | [Profile](https://x.com/cryptolewlew)            |
-| MASON VERSLUIS 🏆🔮                                     | @MasonVersluis        | [Profile](https://x.com/MasonVersluis)           |
-| wEeZiE {X}💭FireGaryGensler                             | @NerdNationUnbox      | [Profile](https://x.com/NerdNationUnbox)         |
+| MASON VERSLUIS 🏆🔮                                     | @MasonVersluis      | [Profile](https://x.com/MasonVersluis)           |
+| ~~wEeZiE {X}💭FireGaryGensler~~                       | REMOVED                |                                                 |
 | BULLZILLA                                              | @CKJCryptonews        | [Profile](https://x.com/CKJCryptonews)           |
 | Coach, JV                                              | @Coachjv_             | [Profile](https://x.com/Coachjv_)                |
-| ⚔️ XRP Avengers ⚔️                                     | @XRP_Avengers         | [Profile](https://x.com/XRP_Avengers)            |
+| ⚔️ XRP Avengers ⚔️                                     | @XRP_Avengers        | [Profile](https://x.com/XRP_Avengers)            |
 | Shannon Thorp                                          | @thorpshannon87       | [Profile](https://x.com/thorpshannon87)          |
+| 👑 𝕂𝕚𝕟𝕘 𝔻𝕠𝕘𝕘𝕠 👑                                     | @KingDoggoXRP         | [Profile](https://twitter.com/KingDoggoXRP)      |
+| 𝓐𝓶𝓮𝓵𝓲𝓮 🍭                                            | @_Crypto_Barbie       | [Profile](https://twitter.com/_Crypto_Barbie)    |
+| Crypto Assets Guy                                      | @cryptoassetsguy      | [Profile](https://twitter.com/cryptoassetsguy)   |
+| Vandell ! Black Swan Capitalist                        | @vandell33            | [Profile](https://twitter.com/vandell33)         |
+| Black Swan Capitalist                                  | @VersanAljarrah       | [Profile](https://twitter.com/VersanAljarrah)    |
+| BABA                                                   | @BabaCugs             | [Profile](https://twitter.com/BabaCugs)          |
 
 To contribute to this list or raise concerns, please get in touch. Remember, the best way to stay off this list is to provide accurate and updated information. Do your research and ensure relevance before posting.
 
