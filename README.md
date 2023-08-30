@@ -14,6 +14,17 @@ Last updated 29 August 2023
 
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
+| Crypto Hulk                                            | @CryptoHulk19         | [Profile](https://x.com/CryptoHulk19)            |
+| 🔥 BULL RUN WONKA 🔥 👉 XRP #XRPL $BTC #NFT #XRP      | @WillyWonkaXRP        | [Profile](https://x.com/WillyWonkaXRP)           |
+| Ripple Van Winkle ! Crypto Researcher 🚀🚨            | @XRPNews_              | [Profile](https://x.com/XRPNews_ )               |
+| LordXRP                                                | @Bitforcoinz          | [Profile](https://x.com/Bitforcoinz)             |
+| Whale                                                  | @WhaleChart           | [Profile](https://x.com/WhaleChart)              |
+| WallStreetBulls                                        | @w_thejazz            | [Profile](https://x.com/w_thejazz)               |
+| XRP DROPZ                                              | @DROPZXRP             | [Profile](https://x.com/DROPZXRP)                |
+| GooP                                                   | @WGhoop               | [Profile](https://x.com/WGhoop)                  |
+| Chad Steingraber                                       | @ChadSteingraber      | [Profile](https://x.com/ChadSteingraber)         |
+| digitalassetbuy                                        | @digitalassetbuy      | [Profile](https://x.com/digitalassetbuy)         |
+|  ***RECENTLY ADDED above here.***                      |                       |                                                  |
 | EDO FARINA 🅧 XRP                                       | @edward_farina        | [Profile](https://x.com/edward_farina)           |
 | Brett Hill                                             | @Brett_Crypto_X       | [Profile](https://x.com/Brett_Crypto_X)          |
 | Digital Assets Daily                                   | @AssetsDaily          | [Profile](https://x.com/AssetsDaily)             |
