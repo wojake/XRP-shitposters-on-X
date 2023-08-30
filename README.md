@@ -16,11 +16,19 @@ Last updated 30 August 2023
 
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
+| BABA                                                   | @BabaCugs             | [Profile](https://twitter.com/BabaCugs)          |
+| 👑 𝕂𝕚𝕟𝕘 𝔻𝕠𝕘𝕘𝕠 👑                                     | @KingDoggoXRP         | [Profile](https://twitter.com/KingDoggoXRP)      |
+| Alex Cobb (XRP)                                        | @AlexCobb_            | [Profile](https://x.com/@AlexCobb_)              |
+| Vandell ! Black Swan Capitalist                        | @vandell33            | [Profile](https://twitter.com/vandell33)         |
+| Black Swan Capitalist                                  | @VersanAljarrah       | [Profile](https://twitter.com/VersanAljarrah)    |
 | KINGVALEX                                              | @VALELORDX            | [Profile](https://x.com/VALEORDX)                |
+| EDO FARINA 🅧 XRP                                       | @edward_farina        | [Profile](https://x.com/edward_farina)           |
+| Brett Hill                                             | @Brett_Crypto_X       | [Profile](https://x.com/Brett_Crypto_X)          |
 | XRPLion1 -ΑΩ- "Messenger of GOD'S REVELATION"          | @XRPLion1             | [Profile](https://x.com/XRPLion1)                |
 | Crypto Hulk                                            | @CryptoHulk19         | [Profile](https://x.com/CryptoHulk19)            |
 | 🔥 BULL RUN WONKA 🔥 👉 XRP #XRPL $BTC #NFT #XRP      | @WillyWonkaXRP        | [Profile](https://x.com/WillyWonkaXRP)            |
 | Zach Rector                                            | @ZachRector7          | [Profile](https://x.com/ZachRector7)             |
+| 𝓐𝓶𝓮𝓵𝓲𝓮 🍭                                            | @_Crypto_Barbie       | [Profile](https://twitter.com/_Crypto_Barbie)    |
 | Ripple Van Winkle ! Crypto Researcher 🚀🚨            | @XRPNews_              | [Profile](https://x.com/XRPNews_ )               |
 | LordXRP                                                | @Bitforcoinz          | [Profile](https://x.com/Bitforcoinz)             |
 | Whale                                                  | @WhaleChart           | [Profile](https://x.com/WhaleChart)              |
@@ -29,9 +37,6 @@ Last updated 30 August 2023
 | GooP                                                   | @WGhoop               | [Profile](https://x.com/WGhoop)                  |
 | Chad Steingraber                                       | @ChadSteingraber      | [Profile](https://x.com/ChadSteingraber)         |
 | digitalassetbuy                                        | @digitalassetbuy      | [Profile](https://x.com/digitalassetbuy)         |
-|  ***RECENTLY ADDED above here.***                      |                       |                                                  |
-| EDO FARINA 🅧 XRP                                       | @edward_farina        | [Profile](https://x.com/edward_farina)           |
-| Brett Hill                                             | @Brett_Crypto_X       | [Profile](https://x.com/Brett_Crypto_X)          |
 | Digital Assets Daily                                   | @AssetsDaily          | [Profile](https://x.com/AssetsDaily)             |
 | CryptoGeek                                             | @CryptoGeekNews       | [Profile](https://x.com/CryptoGeekNews)          |
 | XRP whale                                              | @realXRPwhale         | [Profile](https://x.com/realXRPwhale)            |
@@ -49,21 +54,14 @@ Last updated 30 August 2023
 | JackTheRippler ©️                                       | @Ripplexrpie          | [Profile](https://x.com/Ripplexrpie)             |
 | U.Today                                                | @Utoday_en            | [Profile](https://x.com/Utoday_en)               |
 | 25hoursawake                                           | @25hoursawake         | [Profile](https://x.com/25hoursawake)            |
-| Alex Cobb (XRP)                                        | @AlexCobb_            | [Profile](https://x.com/@AlexCobb_)              |
 | Digital PerspectivesPermaBull🪝                         | @DigPerspectives      | [Profile](https://x.com/DigPerspectives)         |
 | Lewis Jackson                                          | @cryptolewlew         | [Profile](https://x.com/cryptolewlew)            |
 | MASON VERSLUIS 🏆🔮                                     | @MasonVersluis      | [Profile](https://x.com/MasonVersluis)           |
-| ~~wEeZiE {X}💭FireGaryGensler~~                       | REMOVED                |                                                 |
 | BULLZILLA                                              | @CKJCryptonews        | [Profile](https://x.com/CKJCryptonews)           |
 | Coach, JV                                              | @Coachjv_             | [Profile](https://x.com/Coachjv_)                |
 | ⚔️ XRP Avengers ⚔️                                     | @XRP_Avengers        | [Profile](https://x.com/XRP_Avengers)            |
 | Shannon Thorp                                          | @thorpshannon87       | [Profile](https://x.com/thorpshannon87)          |
-| 👑 𝕂𝕚𝕟𝕘 𝔻𝕠𝕘𝕘𝕠 👑                                     | @KingDoggoXRP         | [Profile](https://twitter.com/KingDoggoXRP)      |
-| 𝓐𝓶𝓮𝓵𝓲𝓮 🍭                                            | @_Crypto_Barbie       | [Profile](https://twitter.com/_Crypto_Barbie)    |
 | Crypto Assets Guy                                      | @cryptoassetsguy      | [Profile](https://twitter.com/cryptoassetsguy)   |
-| Vandell ! Black Swan Capitalist                        | @vandell33            | [Profile](https://twitter.com/vandell33)         |
-| Black Swan Capitalist                                  | @VersanAljarrah       | [Profile](https://twitter.com/VersanAljarrah)    |
-| BABA                                                   | @BabaCugs             | [Profile](https://twitter.com/BabaCugs)          |
 
 To contribute to this list or raise concerns, please get in touch. Remember, the best way to stay off this list is to provide accurate and updated information. Do your research and ensure relevance before posting.
 
