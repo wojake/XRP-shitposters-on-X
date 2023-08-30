@@ -8,7 +8,9 @@ The purpose of this list is to identify Twitter accounts that frequently share o
 
 **Note**: This list isn't exhaustive. It's a personal tool for keeping track of accounts to block. If you're on this list and wish to be removed, please correct the misinformation and contact the list owner. Feel free to use and share this list to promote genuine information within the community.
 
-Last updated 29 August 2023
+Also, see my compiled list of X accounts who set out to keep you informed with current and relevant information. https://github.com/rippleitinnz/XRPL-XRP-Informers
+
+Last updated 30 August 2023
 
 ## List of Misinformers
 
