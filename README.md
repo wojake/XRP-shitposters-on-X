@@ -16,8 +16,10 @@ Last updated 30 August 2023
 
 | Name                                                   | Twitter Handle        | Profile Link                                     |
 |--------------------------------------------------------|-----------------------|--------------------------------------------------|
+| XRPLion1 -ΑΩ- "Messenger of GOD'S REVELATION"          | @XRPLion1             | [Profile](https://x.com/XRPLion1)                |
 | Crypto Hulk                                            | @CryptoHulk19         | [Profile](https://x.com/CryptoHulk19)            |
-| 🔥 BULL RUN WONKA 🔥 👉 XRP #XRPL $BTC #NFT #XRP      | @WillyWonkaXRP        | [Profile](https://x.com/WillyWonkaXRP)           |
+| 🔥 BULL RUN WONKA 🔥 👉 XRP #XRPL $BTC #NFT #XRP      | @WillyWonkaXRP        | [Profile](https://x.com/WillyWonkaXRP)            |
+| Zach Rector                                            | @ZachRector7          | [Profile](https://x.com/ZachRector7)             |
 | Ripple Van Winkle ! Crypto Researcher 🚀🚨            | @XRPNews_              | [Profile](https://x.com/XRPNews_ )               |
 | LordXRP                                                | @Bitforcoinz          | [Profile](https://x.com/Bitforcoinz)             |
 | Whale                                                  | @WhaleChart           | [Profile](https://x.com/WhaleChart)              |
